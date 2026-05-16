@@ -1,8 +1,0 @@
-{
-  "retry_attempt": 2,
-  "timestamp": "2026-05-16T10:50:11Z",
-  "status": "PASSED",
-  "http_status": 200,
-  "response_time_ms": 1200,
-  "agent_decision": "Issue classified as flaky infrastructure"
-}
