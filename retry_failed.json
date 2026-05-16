@@ -1,8 +1,0 @@
-{
-  "retry_attempt": 2,
-  "timestamp": "2026-05-16T10:50:11Z",
-  "status": "FAILED",
-  "http_status": 502,
-  "response_time_ms": 14800,
-  "agent_decision": "Persistent backend instability detected"
-}
